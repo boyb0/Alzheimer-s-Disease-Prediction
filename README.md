@@ -1,2 +1,2 @@
-# Alzheimer-Disease-Prediction
-Building and analysing models for early prediction of Alzheimer’s disease (AD)
+# Alzheimer's Disease Prediction
+Building and analysing models for early prediction of Alzheimer’s disease (AD). In this project, Alzheimer’s disease will be analyzed, which is a disease that belongs to the group of neurodegenerative diseases and is considered one of the most destructive and severe diseases of the human nervous system. The problem is how to diagnose it at the earliest possible stage before specific symptoms begin to appear. The main idea is to build an intelligent system that will be able to answer, based on certain biomarkers1 from the subject, whether the disease is present or not.
